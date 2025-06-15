@@ -1,10 +1,4 @@
-[## Hi there 👋
-
-<!--
-**twicemark0703/twicemark0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-](https://github.com/twicemark0703/homework)
+(https://github.com/twicemark0703/homework)
 👋 Hi, I’m @twicemark0703
 👀 I’m interested in ...
 🌱 I’m currently learning ...
